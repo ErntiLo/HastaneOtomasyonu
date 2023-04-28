@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\Administrator\Desktop\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\Administrator\Desktop\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\Administrator\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\Administrator\Desktop\Hastane\Hastane\obj\Debug\Hastane.pdb
+C:\Users\Javix\Desktop\Hastane\Hastane\bin\Debug\Hastane.exe.config
+C:\Users\Javix\Desktop\Hastane\Hastane\bin\Debug\Hastane.exe
+C:\Users\Javix\Desktop\Hastane\Hastane\bin\Debug\Hastane.pdb
+C:\Users\Javix\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.AssemblyReference.cache
+C:\Users\Javix\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Javix\Desktop\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Javix\Desktop\Hastane\Hastane\obj\Debug\Hastane.exe
+C:\Users\Javix\Desktop\Hastane\Hastane\obj\Debug\Hastane.pdb
